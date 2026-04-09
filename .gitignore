@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+contrib/tap-bridgev2/model/*.cc
+contrib/tap-bridgev2/model/*.h
+contrib/tap-bridgev2/model/*.py
