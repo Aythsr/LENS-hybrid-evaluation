@@ -38,3 +38,4 @@ pip install -r requirements.txt
 
 - LENS follows a tap-bridge-like workflow, but its internal design and behavior are reimplemented.
 - Start with the content in `contrib/tap-bridgev2/examples/` to verify your setup quickly.
+- The core code will be open-sourced after the paper is accepted.

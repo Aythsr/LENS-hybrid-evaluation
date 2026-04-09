@@ -40,3 +40,4 @@ pip install -r requirements.txt
 
 - 本项目与经典 tap-bridge 在使用方式上相近，但内部结构与实现逻辑已重写。
 - 建议优先参考 `contrib/tap-bridgev2/examples/` 中的示例和脚本进行验证。
+- 核心代码将在论文接收后开源
